@@ -1,4 +1,4 @@
-### Hi there 👋, my name is José
+### Hi there 👋, my name is José Junco L.
 #### I am Electronic Engineer and I have a master degree in meteorology
 <!-- ![I am Electronic Engineer] (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
