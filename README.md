@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is José Junco L.
-#### I am Electronic Engineer and I have a master degree in meteorology
+#### I am Electronic Engineer and I have a Master Degree in Meteorology
 <!-- ![I am Electronic Engineer] (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I working in this programmer languages as python, php, mysql, html.
