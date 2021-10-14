@@ -6,9 +6,11 @@ I am working in this programmer languages as fortran, java, js, python, php, mys
 
 Skills: PHP/ JS / MYSQL / HTML / CSS / PYTHON
 
-- 🔭 I’m currently working on this page. 
 
 <!--
+- 🔭 I’m currently working on this page. 
+
+
 **josejunco/josejunco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
