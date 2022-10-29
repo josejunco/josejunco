@@ -4,7 +4,7 @@
 
 I am working in this programmer languages as fortran, java, js, python, php, mysql, html.
 
-Also, i work in air dispersion modeling : Screen3, Aersreen, Aermod and Calpuff.
+Also, i work in Air Dispersion Modeling : Screen3, Aersreen, Aermod and Calpuff.
 
 Skills: PHP/ JS / MYSQL / HTML / CSS / PYTHON 
 
