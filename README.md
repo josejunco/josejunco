@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is José Junco L.
-#### I have a Master Degree in Meteorology.
+#### I have a Master Degree in Aplied Meteorology.
 <!-- ![I am Electronic Engineer] (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I'm working in Air Dispersion Modeling : Aermod, Calpuff, Aerscreen and Screen.
