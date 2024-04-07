@@ -2,11 +2,11 @@
 #### I am Electronic Engineer and I have a Master Degree in Meteorology.
 <!-- ![I am Electronic Engineer] (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-I am working in this programmer languages as fortran, java, js, python, php, mysql, html.
+I am working in this programmer languages as fortran, java, js, python,R, php, mysql, html.
 
 Also, i work in Air Dispersion Modeling : Screen3, Aersreen, Aermod and Calpuff.
 
-Skills: PHP/ JS / MYSQL / HTML / CSS / PYTHON 
+Skills: AERMOD / CALPUFF / FORTRAN / PYTHON / R / PHP/ JS / MYSQL / HTML / CSS 
 
 
 <!--
