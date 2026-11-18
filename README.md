@@ -1,12 +1,10 @@
-### Hi there 👋, my name is José Junco L.
-#### I have a Master Degree in Aplied Meteorology.
-<!-- ![I am Electronic Engineer] (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+### Hi, I'm José Junco L. 👋
 
-I'm working in Air Dispersion Modeling : Aermod, Calpuff, Aerscreen and Screen.
+I'm an atmospheric dispersion modeler specializing in AERMOD and CALPUFF. I also work with AERSCREEN and SCREEN.
 
-I can program in Fortran, Python, R, Php, Mysql, Html, Java, JS. 
+I hold a master's degree in applied meteorology.
 
-Skills: AERMOD / CALPUFF / FORTRAN / PYTHON / R / PHP/ JS / MYSQL / HTML / CSS 
+I use Fortran, Python, R, PHP, Java, JavaScript, MySQL, HTML, and CSS.
 
 
 <!--
